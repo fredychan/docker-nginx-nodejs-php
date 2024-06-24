@@ -3,7 +3,7 @@
   // Good job here! 
 
   $db = Array (
-    Array ("name" => "apples", "value" => 5, "img" => "/content/apple.jpg"),
+    Array ("name" => "apples", "value" => 2, "img" => "/content/apple.jpg"),
     Array ("name" => "oranges", "value" => 3, "img" => "/content/orange.jpg"),
     Array ("name" => "pears", "value" => 12, "img" => "/content/pear.jpg")
   );
